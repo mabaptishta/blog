@@ -3,7 +3,7 @@
 title: MAB
 
 # Name pronunciation (optional)
-name_pronunciation: Mateus Baptista
+name_pronunciation: Mateus Andre Baptista
 
 # Full name (for SEO)
 first_name: Mateus Andre
