@@ -6,7 +6,7 @@ title: MAB
 name_pronunciation: Mateus Baptista
 
 # Full name (for SEO)
-first_name: Mateus
+first_name: Mateus Andre
 last_name: Baptista
 
 # Status emoji
