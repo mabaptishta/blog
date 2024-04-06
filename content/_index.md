@@ -45,6 +45,19 @@ sections:
   - block: skills
     content:
       title: Skills
+      items:
+        - name: App Developer
+          description: 70%
+          icon: cube
+          icon_pack: fas 
+        - name: Data Science
+           decription: 80%
+           icon: server
+           icon_pack: fas
+         - name: Ethical hacking
+           description: 50%
+           icon: user-secret
+           icon_pack: fas
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
